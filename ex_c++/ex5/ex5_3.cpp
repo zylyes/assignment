@@ -1,8 +1,8 @@
 //ex5_3.cpp
 //时间：2024/04/03
 //作者：周咏霖
-//编译：PS D:\ex\ex5> g++ .\ex5_3.cpp -o ex5_3.exe
-//运行：D:\ex\ex5> .\ex5_3.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex5> g++ .\ex5_3.cpp -o ex5_3.exe
+//运行：D:\GitHub\assignment\ex_c++\ex5> .\ex5_3.exe
 //输出：Bicycle weight: 50, height: 0
 //1-start  2-add passenger  3-Someone gets off the bus  4-stop  0-end program.
 //1-start

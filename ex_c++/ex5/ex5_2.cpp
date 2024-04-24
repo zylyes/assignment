@@ -1,8 +1,8 @@
 //ex5_2.cpp
 //时间：2024/04/03
 //作者：周咏霖
-//编译：PS D:\ex\ex5> g++ .\ex5_2.cpp -o ex5_2.exe
-//运行：D:\ex\ex5> .\ex5_2.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex5> g++ .\ex5_2.cpp -o ex5_2.exe
+//运行：D:\GitHub\assignment\ex_c++\ex5> .\ex5_2.exe
 //输出：Destructor B!7
 //     Destructor A!6
 //     Destructor B!0

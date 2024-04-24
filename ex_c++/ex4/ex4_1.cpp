@@ -1,8 +1,8 @@
 //ex4_1.cpp
 //时间：2024/03/27
 //作者：周咏霖
-//编译：PS D:\ex\ex4> g++ .\ex4_1.cpp -o ex4_1.exe
-//运行：D:\ex\ex4> .\ex4_1.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex4> g++ .\ex4_1.cpp -o ex4_1.exe
+//运行：D:\GitHub\assignment\ex_c++\ex4> .\ex4_1.exe
 //输出：operator+=
 //     16.1+10.1i
 //     operator+

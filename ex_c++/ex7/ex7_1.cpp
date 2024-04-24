@@ -1,8 +1,8 @@
 //ex7_1.cpp
 //时间：2024/04/11
 //作者：周咏霖
-//编译：PS D:\ex\ex7> g++ .\ex7_1.cpp -o ex7_1.exe
-//运行：D:\ex\ex7> .\ex7_1.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex7> g++ .\ex7_1.cpp -o ex7_1.exe
+//运行：D:\GitHub\assignment\ex_c++\ex7> .\ex7_1.exe
 //程序运行结果为：
 //In Base Class
 //In Sub Class

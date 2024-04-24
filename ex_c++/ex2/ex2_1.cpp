@@ -1,8 +1,8 @@
 //ex2_1.cpp
 //时间：2024/03/13
 //作者：周咏霖
-//编译：PS D:\ex\ex2> g++ .\ex2_1.cpp -o ex2_1.exe
-//运行：D:\ex\ex2> .\ex2_1.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex2> g++ .\ex2_1.cpp -o ex2_1.exe
+//运行：D:\GitHub\assignment\ex_c++\ex2> .\ex2_1.exe
 //输出行1：1/21/2005
 //输出行2：3/8/2023
 //掌握用类和对象编制基于对象的程序

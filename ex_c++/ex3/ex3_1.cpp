@@ -1,8 +1,8 @@
 //ex3_1.cpp
 //时间：2024/03/20
 //作者：周咏霖
-//编译：PS D:\ex\ex3> g++ .\ex3_1.cpp -o ex3_1.exe
-//运行：D:\ex\ex3> .\ex3_1.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex3> g++ .\ex3_1.cpp -o ex3_1.exe
+//运行：D:\GitHub\assignment\ex_c++\ex3> .\ex3_1.exe
 //输出：1) Overloaded constructor
 //     id:1
 //     math:98,english:99,cpp:100

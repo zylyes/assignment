@@ -1,8 +1,8 @@
 //ex6_2.cpp
 //时间：2024/04/10
 //作者：周咏霖
-//编译：PS D:\ex\ex6> g++ .\ex6_2.cpp -o ex6_2.exe
-//运行：D:\ex\ex6> .\ex6_2.exe
+//编译：PS D:\GitHub\assignment\ex_c++\ex6> g++ .\ex6_2.cpp -o ex6_2.exe
+//运行：D:\GitHub\assignment\ex_c++\ex6> .\ex6_2.exe
 //输出：Please enter the name, age, title, post, and wages:
 //ilxin
 //23
